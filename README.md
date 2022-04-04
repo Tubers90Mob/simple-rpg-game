@@ -10,5 +10,5 @@ those on IOS may not be able to find a able functionable program are app to run 
 
 # Run on Android
 
- read the .py file and you should follow the instructions as said in the first few lines.
+ read the [.py file](https://github.com/Tubers90Mob/simple-rpg-game/blob/main/da-rpg-game.py) and you should follow the instructions as said in the first few lines.
  
